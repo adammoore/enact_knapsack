@@ -17,7 +17,7 @@ terms:
     file_suffixes: [zip, pdf]
   - id: https://datacite-metadata-schema.readthedocs.io/en/4.7/appendices/appendix-1/resourceTypeGeneral/#dataset
     term: Dataset
-  - id: http://vocab.getty.edu/page/aat/300054766
+  - id: http://vocab.getty.edu/page/aat/300417531
     term: Exhibition
     note: 'Items grouped because they belong to one exhibition.'
   - id: master_and_derivatives
